@@ -1,0 +1,2 @@
+class BalanceInquiryReq < ApplicationRecord
+end
